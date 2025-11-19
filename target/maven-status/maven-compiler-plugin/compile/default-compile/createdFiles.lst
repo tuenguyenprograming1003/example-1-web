@@ -1,0 +1,8 @@
+vn/edu/webpr/dao/impl/UserDaoImpl.class
+vn/edu/webpr/dao/UserDao.class
+vn/edu/webpr/controller/LoginController.class
+vn/edu/webpr/model/User.class
+vn/edu/webpr/service/UserService.class
+vn/edu/webpr/util/DBConnection.class
+vn/edu/webpr/controller/WaitingController.class
+vn/edu/webpr/service/impl/UserServiceImpl.class
